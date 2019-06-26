@@ -1,0 +1,3 @@
+I cannot put the assets in a folder, so you will have to do it yourself
+Sounds go in a sounds folder
+Images go into a images folder
